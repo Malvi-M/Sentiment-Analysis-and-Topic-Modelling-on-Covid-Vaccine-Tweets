@@ -60,8 +60,8 @@ Country level Vaccination advancement is analyzed to track the progress of Covid
 ![Topic](https://github.com/Malvi-M/Sentiment-Analysis-and-Topic-Modelling-on-Covid-Vaccine-Tweets/blob/main/Topic.PNG) <br/>
 ![Word_Cloud_Topic](https://github.com/Malvi-M/Sentiment-Analysis-and-Topic-Modelling-on-Covid-Vaccine-Tweets/blob/main/Word_Cloud.PNG) <br/>
 
-## Contact
+## Contact Info
 
-[E-Mail](malvipatel1999@gmail.com) <br/>
-[LinkedIn](https://www.linkedin.com/in/malvi-m)
+📧 [E-Mail](malvipatel1999@gmail.com) <br/>
+🤝 [LinkedIn](https://www.linkedin.com/in/malvi-m)
 
